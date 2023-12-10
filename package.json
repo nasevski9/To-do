@@ -1,5 +1,6 @@
 {
   "name": "to-do",
+  "homepage": "https://github.com/nasevski9/To-do",
   "private": true,
   "version": "0.0.0",
   "type": "module",
